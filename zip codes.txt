@@ -70,7 +70,7 @@
 98178,”Tukwila"
 98028,”Kenmore"
 98146,”Burien"
-98038,”Mapple Valley"
+98038,”Maple Valley"
 98007,“Bellevue"
 98177,”Shoreline”
 98155,”Lake Forest Park”
